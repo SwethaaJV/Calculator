@@ -1,4 +1,5 @@
 Advanced Calculator with Real-Time Display
+
 This repository features an advanced web-based calculator with standard arithmetic operations, additional functions (square root, square, toggle sign, modulo), and memory capabilities (MC, MR, M+, M-). 
 It also displays the current time, updated every second.
 
